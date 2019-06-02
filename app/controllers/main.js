@@ -12,6 +12,10 @@ $(document).ready(function () {
         
     }
 
+    function timkiem() {
+        
+    }
+
     function layDanhSachNguoiDung() {
         danhSachNguoiDung
             .layDanhSachNguoiDung()
